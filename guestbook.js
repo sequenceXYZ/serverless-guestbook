@@ -1,4 +1,4 @@
-
+/**
  * Web application
  */
 const apiUrl = 'https://us-south.functions.appdomain.cloud/api/v1/web/9462ab6d-ca94-4663-a3d3-5e0c33fa01fa/guestbook';
